@@ -1,0 +1,34 @@
+﻿<Window x:Class="Pipettor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pipettor"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1200" Width="1200">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <local:MyCanvas x:Name="myCanvas" Height="1200">
+
+        </local:MyCanvas>
+
+        <StackPanel Grid.Column="1" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal"/>
+            <StackPanel Orientation="Horizontal">
+                <Label>TubeID:</Label>
+                <TextBox Width ="100" Name="txtTubeID">1</TextBox>
+            </StackPanel>
+            <Button x:Name="btnSetDegree" Click="btnSetDegree_Click" Height="39" Content="设置"/>
+            <Button x:Name="btnNextDegree" Click="btnNextDegree_Click" Height="39" Content="下一个孔"/>
+            <Button x:Name="btnBackOrigin_Copy" Click="BackOrigin_Click" Height="39" Content="归零"/>
+            <Button x:Name="btnExit" Content="Exit" Width="152" Height="37" Click="BtnExit_Click"/>
+            <!--<Button Name="btnSet10" Click="BtnSet10_Click">10</Button>
+            <Button Name="btnSet180" Click="BtnSet180_Click">180</Button>
+            <Button Name="btnSetMinus10" Click="BtnSetMinus10_Click">-10</Button>
+            <Button Name="btnSetMinus180" Click="BtnSetMinus180_Click">-180</Button>-->
+        </StackPanel>
+    </Grid>
+</Window>

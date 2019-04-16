@@ -1,0 +1,173 @@
+[===================================Start=================================]
+Pipettor Running Successfully! (Version v1.2)
+Port opened successfully! Now Port is: COM3
+
+Arm1: 逆时针旋转至0°
+Arm2:顺时针旋转至137°
+
+Arms Returned To Zero Successfully! Now Arm1 at: 0,Arm2 at: 137
+
+Arm1RotateInfo: X:332.804,y:292.0923,Angle1.355088
+Arm1: 顺时针旋转至1°
+Arm2RotateInfo  X:332.804,y:292.0923,Angle-146.4028
+Arm2:顺时针旋转至213°
+
+Arm1RotateInfo: X:379.3348,y:296.5039,Angle9.476962
+Arm1: 顺时针旋转至9°
+Arm2RotateInfo  X:379.3348,y:296.5039,Angle-131.6491
+Arm2:顺时针旋转至228°
+
+Arm1: 逆时针旋转至0°
+Arm2:逆时针旋转至137°
+
+Arms Returned To Zero Successfully! Now Arm1 at: 0,Arm2 at: 137
+
+Arm1RotateInfo: X:409.5594,y:303.0177,Angle14.84711
+Arm1: 顺时针旋转至14°
+Arm2RotateInfo  X:409.5594,y:303.0177,Angle-119.1716
+Arm2:顺时针旋转至240°
+
+Line 51:输入字符串的格式不正确。
+Line 65:输入字符串的格式不正确。
+Arm1: 逆时针旋转至0°
+Arm2:逆时针旋转至137°
+
+Arms Returned To Zero Successfully! Now Arm1 at: 0,Arm2 at: 137
+
+Exit
+[====================================End==================================]
+[===================================Start=================================]
+Pipettor Running Successfully! (Version v1.2)
+Port opened successfully! Now Port is: COM3
+
+Arm1: 逆时针旋转至0°
+Arm2:顺时针旋转至137°
+
+Arms Returned To Zero Successfully! Now Arm1 at: 0,Arm2 at: 137
+
+Arm1RotateInfo: X:332.804,Y:292.0923,Angle:1.355088
+Arm1: 顺时针旋转至1°
+Arm2RotateInfo  X:332.804,Y:292.0923,Angle:-146.4028
+Arm2:顺时针旋转至213°
+
+Arm1RotateInfo: X:379.3348,Y:296.5039,Angle:9.476962
+Arm1: 顺时针旋转至9°
+Arm2RotateInfo  X:379.3348,Y:296.5039,Angle:-131.6491
+Arm2:顺时针旋转至228°
+
+Arm1RotateInfo: X:409.5594,Y:303.0177,Angle:14.84711
+Arm1: 顺时针旋转至14°
+Arm2RotateInfo  X:409.5594,Y:303.0177,Angle:-119.1716
+Arm2:顺时针旋转至240°
+
+Arm1RotateInfo: X:427.7874,Y:308.4163,Angle:18.14827
+Arm1: 顺时针旋转至18°
+Arm2RotateInfo  X:427.7874,Y:308.4163,Angle:-108.3567
+Arm2:顺时针旋转至251°
+
+Arm1RotateInfo: X:437.2347,Y:311.6721,Angle:19.88328
+Arm1: 顺时针旋转至19°
+Arm2RotateInfo  X:437.2347,Y:311.6721,Angle:-98.7061
+Arm2:顺时针旋转至261°
+
+Arm1RotateInfo: X:439.999,Y:312.6859,Angle:20.39449
+Arm1: 顺时针旋转至20°
+Arm2RotateInfo  X:439.999,Y:312.6859,Angle:-89.83626
+Arm2:顺时针旋转至270°
+
+Arm1RotateInfo: X:437.329,Y:311.7063,Angle:19.90069
+Arm1: 逆时针旋转至19°
+Arm2RotateInfo  X:437.329,Y:311.7063,Angle:-81.44399
+Arm2:顺时针旋转至278°
+
+Arm1RotateInfo: X:429.8385,Y:309.096,Angle:18.52343
+Arm1: 逆时针旋转至18°
+Arm2RotateInfo  X:429.8385,Y:309.096,Angle:-73.26772
+Arm2:顺时针旋转至286°
+
+Arm1RotateInfo: X:417.5939,Y:305.2566,Angle:16.29527
+Arm1: 逆时针旋转至16°
+Arm2RotateInfo  X:417.5939,Y:305.2566,Angle:-65.04523
+Arm2:顺时针旋转至294°
+
+Arm1RotateInfo: X:400.0168,Y:300.6396,Angle:13.13956
+Arm1: 逆时针旋转至13°
+Arm2RotateInfo  X:400.0168,Y:300.6396,Angle:-56.44995
+Arm2:顺时针旋转至303°
+
+Arm1RotateInfo: X:375.3526,Y:295.8641,Angle:8.776688
+Arm1: 逆时针旋转至8°
+Arm2RotateInfo  X:375.3526,Y:295.8641,Angle:-46.93974
+Arm2:顺时针旋转至313°
+
+Arm1RotateInfo: X:338.1355,Y:292.2615,Angle:2.281235
+Arm1: 逆时针旋转至2°
+Arm2RotateInfo  X:338.1355,Y:292.2615,Angle:-35.13918
+Arm2:顺时针旋转至324°
+
+Arm1RotateInfo: X:392.6758,Y:299.0139,Angle:11.83408
+Arm1: 顺时针旋转至11°
+Arm2RotateInfo  X:392.6758,Y:299.0139,Angle:-143.5242
+Arm2:逆时针旋转至216°
+
+Arm1RotateInfo: X:443.4879,Y:314.0055,Angle:21.04212
+Arm1: 顺时针旋转至21°
+Arm2RotateInfo  X:443.4879,Y:314.0055,Angle:-126.2737
+Arm2:顺时针旋转至233°
+
+Arm1RotateInfo: X:470.8086,Y:325.9597,Angle:26.2216
+Arm1: 顺时针旋转至26°
+Arm2RotateInfo  X:470.8086,Y:325.9597,Angle:-113.0687
+Arm2:顺时针旋转至246°
+
+Arm1RotateInfo: X:484.5474,Y:333.1321,Angle:28.91273
+Arm1: 顺时针旋转至28°
+Arm2RotateInfo  X:484.5474,Y:333.1321,Angle:-102.2366
+Arm2:顺时针旋转至257°
+
+Arm1RotateInfo: X:489.7018,Y:336.0396,Angle:29.94023
+Arm1: 顺时针旋转至29°
+Arm2RotateInfo  X:489.7018,Y:336.0396,Angle:-92.85651
+Arm2:顺时针旋转至267°
+
+Arm1RotateInfo: X:488.8422,Y:335.5463,Angle:29.76814
+Arm1: 逆时针旋转至29°
+Arm2RotateInfo  X:488.8422,Y:335.5463,Angle:-84.36969
+Arm2:顺时针旋转至275°
+
+Arm1RotateInfo: X:483.2714,Y:332.4311,Angle:28.65995
+Arm1: 逆时针旋转至28°
+Arm2RotateInfo  X:483.2714,Y:332.4311,Angle:-76.40075
+Arm2:顺时针旋转至283°
+
+Arm1RotateInfo: X:473.5493,Y:327.3254,Angle:26.75326
+Arm1: 逆时针旋转至26°
+Arm2RotateInfo  X:473.5493,Y:327.3254,Angle:-68.66281
+Arm2:顺时针旋转至291°
+
+Arm1RotateInfo: X:459.6943,Y:320.7403,Angle:24.08959
+Arm1: 逆时针旋转至24°
+Arm2RotateInfo  X:459.6943,Y:320.7403,Angle:-60.8946
+Arm2:顺时针旋转至299°
+
+Arm1RotateInfo: X:441.156,Y:313.1185,Angle:20.60895
+Arm1: 逆时针旋转至20°
+Arm2RotateInfo  X:441.156,Y:313.1185,Angle:-52.79559
+Arm2:顺时针旋转至307°
+
+Arm1RotateInfo: X:416.4304,Y:304.9188,Angle:16.08493
+Arm1: 逆时针旋转至16°
+Arm2RotateInfo  X:416.4304,Y:304.9188,Angle:-43.90463
+Arm2:顺时针旋转至316°
+
+[====================================End==================================]
+[===================================Start=================================]
+Pipettor Running Successfully! (Version v1.3)
+Port opened successfully! Now Port is: COM3
+
+Arm1: 逆时针旋转至0°
+Arm2:顺时针旋转至137°
+
+Arms Returned To Zero Successfully! Now Arm1 at: 0,Arm2 at: 137
+
+[====================================End==================================]
